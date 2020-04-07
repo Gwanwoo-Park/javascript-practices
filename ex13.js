@@ -53,7 +53,7 @@ var a3 = [
         console.log("hello");
     }, 
     20, 
-    "javascript", 
+    "javascript",
     true,
     {
         email: 'kickscar@gmail.com',
